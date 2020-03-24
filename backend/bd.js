@@ -32,6 +32,12 @@ const bd = {
     }, {
         id: 11,
         nombre: "Gustavo"
+    }, {
+        id: 12,
+        nombre: "Victor"
+    }, {
+        id: 13,
+        nombre: "Ivan"
     }],
     curso: [{
         id: 1,

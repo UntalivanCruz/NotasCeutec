@@ -52,3 +52,17 @@ body {
     background-color: #4CAF50;
     color: white;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+div {
+    padding: 14px 16px;
+}
